@@ -1,0 +1,1000 @@
+Peanuts	1
+Gluten	2
+Shellfish	3
+Tree Nuts	4
+Milk	5
+Eggs	6
+Soy	7
+Fish	8
+None	9
+Peanuts	10
+Gluten	11
+Shellfish	12
+Tree Nuts	13
+Milk	14
+Eggs	15
+Soy	16
+Fish	17
+None	18
+Peanuts	19
+Gluten	20
+Shellfish	21
+Tree Nuts	22
+Milk	23
+Eggs	24
+Soy	25
+Fish	26
+None	27
+Peanuts	28
+Gluten	29
+Shellfish	30
+Tree Nuts	31
+Milk	32
+Eggs	33
+Soy	34
+Fish	35
+None	36
+Peanuts	37
+Gluten	38
+Shellfish	39
+Tree Nuts	40
+Milk	41
+Eggs	42
+Soy	43
+Fish	44
+None	45
+Peanuts	46
+Gluten	47
+Shellfish	48
+Tree Nuts	49
+Milk	50
+Eggs	51
+Soy	52
+Fish	53
+None	54
+Peanuts	55
+Gluten	56
+Shellfish	57
+Tree Nuts	58
+Milk	59
+Eggs	60
+Soy	61
+Fish	62
+None	63
+Peanuts	64
+Gluten	65
+Shellfish	66
+Tree Nuts	67
+Milk	68
+Eggs	69
+Soy	70
+Fish	71
+None	72
+Peanuts	73
+Gluten	74
+Shellfish	75
+Tree Nuts	76
+Milk	77
+Eggs	78
+Soy	79
+Fish	80
+None	81
+Peanuts	82
+Gluten	83
+Shellfish	84
+Tree Nuts	85
+Milk	86
+Eggs	87
+Soy	88
+Fish	89
+None	90
+Peanuts	91
+Gluten	92
+Shellfish	93
+Tree Nuts	94
+Milk	95
+Eggs	96
+Soy	97
+Fish	98
+None	99
+Peanuts	100
+Gluten	101
+Shellfish	102
+Tree Nuts	103
+Milk	104
+Eggs	105
+Soy	106
+Fish	107
+None	108
+Peanuts	109
+Gluten	110
+Shellfish	111
+Tree Nuts	112
+Milk	113
+Eggs	114
+Soy	115
+Fish	116
+None	117
+Peanuts	118
+Gluten	119
+Shellfish	120
+Tree Nuts	121
+Milk	122
+Eggs	123
+Soy	124
+Fish	125
+None	126
+Peanuts	127
+Gluten	128
+Shellfish	129
+Tree Nuts	130
+Milk	131
+Eggs	132
+Soy	133
+Fish	134
+None	135
+Peanuts	136
+Gluten	137
+Shellfish	138
+Tree Nuts	139
+Milk	140
+Eggs	141
+Soy	142
+Fish	143
+None	144
+Peanuts	145
+Gluten	146
+Shellfish	147
+Tree Nuts	148
+Milk	149
+Eggs	150
+Soy	151
+Fish	152
+None	153
+Peanuts	154
+Gluten	155
+Shellfish	156
+Tree Nuts	157
+Milk	158
+Eggs	159
+Soy	160
+Fish	161
+None	162
+Peanuts	163
+Gluten	164
+Shellfish	165
+Tree Nuts	166
+Milk	167
+Eggs	168
+Soy	169
+Fish	170
+None	171
+Peanuts	172
+Gluten	173
+Shellfish	174
+Tree Nuts	175
+Milk	176
+Eggs	177
+Soy	178
+Fish	179
+None	180
+Peanuts	181
+Gluten	182
+Shellfish	183
+Tree Nuts	184
+Milk	185
+Eggs	186
+Soy	187
+Fish	188
+None	189
+Peanuts	190
+Gluten	191
+Shellfish	192
+Tree Nuts	193
+Milk	194
+Eggs	195
+Soy	196
+Fish	197
+None	198
+Peanuts	199
+Gluten	200
+Shellfish	201
+Tree Nuts	202
+Milk	203
+Eggs	204
+Soy	205
+Fish	206
+None	207
+Peanuts	208
+Gluten	209
+Shellfish	210
+Tree Nuts	211
+Milk	212
+Eggs	213
+Soy	214
+Fish	215
+None	216
+Peanuts	217
+Gluten	218
+Shellfish	219
+Tree Nuts	220
+Milk	221
+Eggs	222
+Soy	223
+Fish	224
+None	225
+Peanuts	226
+Gluten	227
+Shellfish	228
+Tree Nuts	229
+Milk	230
+Eggs	231
+Soy	232
+Fish	233
+None	234
+Peanuts	235
+Gluten	236
+Shellfish	237
+Tree Nuts	238
+Milk	239
+Eggs	240
+Soy	241
+Fish	242
+None	243
+Peanuts	244
+Gluten	245
+Shellfish	246
+Tree Nuts	247
+Milk	248
+Eggs	249
+Soy	250
+Fish	251
+None	252
+Peanuts	253
+Milk	254
+Eggs	255
+Soy	256
+Fish	257
+None	258
+Peanuts	259
+Gluten	260
+Shellfish	261
+Tree Nuts	262
+Milk	263
+Eggs	264
+Soy	265
+Fish	266
+None	267
+Peanuts	268
+Gluten	269
+Shellfish	270
+Tree Nuts	271
+Milk	272
+Eggs	273
+Soy	274
+Fish	275
+None	276
+Peanuts	277
+Gluten	278
+Shellfish	279
+Tree Nuts	280
+Milk	281
+Eggs	282
+Soy	283
+Fish	284
+None	285
+Peanuts	286
+Gluten	287
+Shellfish	288
+Tree Nuts	289
+Milk	290
+Eggs	291
+Soy	292
+Fish	293
+None	294
+Peanuts	295
+Gluten	296
+Shellfish	297
+Tree Nuts	298
+Milk	299
+Eggs	300
+Soy	301
+Fish	302
+None	303
+Peanuts	304
+Gluten	305
+Shellfish	306
+Tree Nuts	307
+Milk	308
+Eggs	309
+Soy	310
+Fish	311
+None	312
+Peanuts	313
+Gluten	314
+Shellfish	315
+Tree Nuts	316
+Milk	317
+Eggs	318
+Soy	319
+Fish	320
+None	321
+Peanuts	322
+Gluten	323
+Shellfish	324
+Tree Nuts	325
+Milk	326
+Eggs	327
+Soy	328
+Fish	329
+None	330
+Peanuts	331
+Gluten	332
+Shellfish	333
+Tree Nuts	334
+Milk	335
+Eggs	336
+Soy	337
+Fish	338
+None	339
+Peanuts	340
+Gluten	341
+Shellfish	342
+Tree Nuts	343
+Milk	344
+Eggs	345
+Soy	346
+Fish	347
+None	348
+Peanuts	349
+Gluten	350
+Shellfish	351
+Tree Nuts	352
+Milk	353
+Eggs	354
+Soy	355
+Fish	356
+None	357
+Peanuts	358
+Gluten	359
+Shellfish	360
+Tree Nuts	361
+Milk	362
+Eggs	363
+Soy	364
+Fish	365
+None	366
+Peanuts	367
+Gluten	368
+Shellfish	369
+Shellfish	370
+Tree Nuts	371
+Milk	372
+Eggs	373
+Soy	374
+Fish	375
+None	376
+Peanuts	377
+Gluten	378
+Shellfish	379
+Tree Nuts	380
+Milk	381
+Eggs	382
+Soy	383
+Fish	384
+None	385
+Peanuts	386
+Gluten	387
+Shellfish	388
+Tree Nuts	389
+Milk	390
+Eggs	391
+Soy	392
+Fish	393
+None	394
+Peanuts	395
+Gluten	396
+Shellfish	397
+Tree Nuts	398
+Milk	399
+Eggs	400
+Soy	401
+Fish	402
+None	403
+Peanuts	404
+Gluten	405
+Shellfish	406
+Tree Nuts	407
+Milk	408
+Eggs	409
+Soy	410
+Fish	411
+None	412
+Peanuts	413
+Gluten	414
+Shellfish	415
+Tree Nuts	416
+Milk	417
+Eggs	418
+Soy	419
+Fish	420
+None	421
+Peanuts	422
+Gluten	423
+Shellfish	424
+Tree Nuts	425
+Milk	426
+Eggs	427
+Soy	428
+Fish	429
+None	430
+Peanuts	431
+Gluten	432
+Shellfish	433
+Tree Nuts	434
+Milk	435
+Eggs	436
+Soy	437
+Fish	438
+None	439
+Peanuts	440
+Gluten	441
+Shellfish	442
+Tree Nuts	443
+Milk	444
+Eggs	445
+Soy	446
+Fish	447
+None	448
+Peanuts	449
+Gluten	450
+Shellfish	451
+Tree Nuts	452
+Milk	453
+Eggs	454
+Soy	455
+Fish	456
+None	457
+Peanuts	458
+Gluten	459
+Shellfish	460
+Tree Nuts	461
+Milk	462
+Eggs	463
+Soy	464
+Fish	465
+None	466
+Peanuts	467
+Gluten	468
+Shellfish	469
+Tree Nuts	470
+Milk	471
+Eggs	472
+Soy	473
+Fish	474
+None	475
+Peanuts	476
+Gluten	477
+Shellfish	478
+Tree Nuts	479
+Milk	480
+Eggs	481
+Soy	482
+Fish	483
+None	484
+Peanuts	485
+Gluten	486
+Shellfish	487
+Tree Nuts	488
+Milk	489
+Eggs	490
+Soy	491
+Fish	492
+None	493
+Peanuts	494
+Gluten	495
+Shellfish	496
+Tree Nuts	497
+Milk	498
+Eggs	499
+Soy	500
+Fish	501
+None	502
+Peanuts	503
+Gluten	504
+Shellfish	505
+Tree Nuts	506
+Milk	507
+Eggs	508
+Soy	509
+Fish	510
+None	511
+Peanuts	512
+Gluten	513
+Shellfish	514
+Tree Nuts	515
+Milk	516
+Eggs	517
+Soy	518
+Fish	519
+None	520
+Peanuts	521
+Gluten	522
+Shellfish	523
+Tree Nuts	524
+Milk	525
+Eggs	526
+Soy	527
+Fish	528
+None	529
+Peanuts	530
+Gluten	531
+Shellfish	532
+Tree Nuts	533
+Milk	534
+Eggs	535
+Soy	536
+Fish	537
+None	538
+Peanuts	539
+Gluten	540
+Shellfish	541
+Tree Nuts	542
+Milk	543
+Eggs	544
+Soy	545
+Fish	546
+None	547
+Peanuts	548
+Gluten	549
+Shellfish	550
+Tree Nuts	551
+Milk	552
+Eggs	553
+Soy	554
+Fish	555
+None	556
+Peanuts	557
+Gluten	558
+Shellfish	559
+Tree Nuts	560
+Milk	561
+Eggs	562
+Soy	563
+Fish	564
+None	565
+Peanuts	566
+Gluten	567
+Shellfish	568
+Tree Nuts	569
+Milk	570
+Eggs	571
+Soy	572
+Fish	573
+None	574
+Peanuts	575
+Gluten	576
+Shellfish	577
+Tree Nuts	578
+Milk	579
+Eggs	580
+Soy	581
+Fish	582
+None	583
+Peanuts	584
+Gluten	585
+Shellfish	586
+Tree Nuts	587
+Milk	588
+Eggs	589
+Soy	590
+Fish	591
+None	592
+Peanuts	593
+Gluten	594
+Shellfish	595
+Tree Nuts	596
+Milk	597
+Eggs	598
+Soy	599
+Fish	600
+None	601
+Peanuts	602
+Gluten	603
+Shellfish	604
+Tree Nuts	605
+Milk	606
+Eggs	607
+Soy	608
+Fish	609
+None	610
+Peanuts	611
+Gluten	612
+Shellfish	613
+Tree Nuts	614
+Milk	615
+Eggs	616
+Soy	617
+Fish	618
+None	619
+Peanuts	620
+Gluten	621
+Shellfish	622
+Tree Nuts	623
+Milk	624
+Eggs	625
+Soy	626
+Fish	627
+None	628
+Peanuts	629
+Gluten	630
+Shellfish	631
+Tree Nuts	632
+Milk	633
+Eggs	634
+Soy	635
+Fish	636
+None	637
+Peanuts	638
+Gluten	639
+Shellfish	640
+Tree Nuts	641
+Milk	642
+Eggs	643
+Soy	644
+Fish	645
+None	646
+Peanuts	647
+Gluten	648
+Shellfish	649
+Tree Nuts	650
+Milk	651
+Eggs	652
+Soy	653
+Fish	654
+None	655
+Peanuts	656
+Gluten	657
+Shellfish	658
+Tree Nuts	659
+Milk	660
+Eggs	661
+Soy	662
+Fish	663
+None	664
+Peanuts	665
+Gluten	666
+Shellfish	667
+Tree Nuts	668
+Milk	669
+Eggs	670
+Soy	671
+Fish	672
+None	673
+Peanuts	674
+Gluten	675
+Shellfish	676
+Tree Nuts	677
+Milk	678
+Eggs	679
+Soy	680
+Fish	681
+None	682
+Peanuts	683
+Gluten	684
+Shellfish	685
+Tree Nuts	686
+Milk	687
+Eggs	688
+Soy	689
+Fish	690
+None	691
+Peanuts	692
+Gluten	693
+Shellfish	694
+Tree Nuts	695
+Milk	696
+Eggs	697
+Soy	698
+Fish	699
+None	700
+Peanuts	701
+Gluten	702
+Shellfish	703
+Tree Nuts	704
+Milk	705
+Eggs	706
+Soy	707
+Fish	708
+None	709
+Peanuts	710
+Gluten	711
+Shellfish	712
+Tree Nuts	713
+Milk	714
+Eggs	715
+Soy	716
+Fish	717
+None	718
+Peanuts	719
+Gluten	720
+Shellfish	721
+Tree Nuts	722
+Milk	723
+Eggs	724
+Soy	725
+Fish	726
+None	727
+Peanuts	728
+Gluten	729
+Shellfish	730
+Tree Nuts	731
+Milk	732
+Eggs	733
+Soy	734
+Fish	735
+None	736
+Peanuts	737
+Gluten	738
+Shellfish	739
+Tree Nuts	740
+Milk	741
+Eggs	742
+Soy	743
+Fish	744
+None	745
+Peanuts	746
+Gluten	747
+Shellfish	748
+Tree Nuts	749
+Milk	750
+Eggs	751
+Soy	752
+Fish	753
+None	754
+Peanuts	755
+Gluten	756
+Shellfish	757
+Tree Nuts	758
+Milk	759
+Eggs	760
+Soy	761
+Fish	762
+None	763
+Peanuts	764
+Gluten	765
+Shellfish	766
+Tree Nuts	767
+Milk	768
+Eggs	769
+Soy	770
+Fish	771
+None	772
+Peanuts	773
+Gluten	774
+Shellfish	775
+Tree Nuts	776
+Milk	777
+Eggs	778
+Soy	779
+Fish	780
+None	781
+Peanuts	782
+Gluten	783
+Shellfish	784
+Tree Nuts	785
+Milk	786
+Eggs	787
+Soy	788
+Fish	789
+None	790
+Peanuts	791
+Gluten	792
+Shellfish	793
+Tree Nuts	794
+Milk	795
+Eggs	796
+Soy	797
+Fish	798
+None	799
+Peanuts	800
+Gluten	801
+Shellfish	802
+Tree Nuts	803
+Milk	804
+Eggs	805
+Soy	806
+Fish	807
+None	808
+Peanuts	809
+Gluten	810
+Shellfish	811
+Tree Nuts	812
+Milk	813
+Eggs	814
+Soy	815
+Fish	816
+None	817
+Peanuts	818
+Gluten	819
+Shellfish	820
+Tree Nuts	821
+Milk	822
+Eggs	823
+Soy	824
+Fish	825
+None	826
+Peanuts	827
+Gluten	828
+Shellfish	829
+Tree Nuts	830
+Milk	831
+Eggs	832
+Soy	833
+Fish	834
+None	835
+Peanuts	836
+Gluten	837
+Shellfish	838
+Tree Nuts	839
+Milk	840
+Eggs	841
+Soy	842
+Fish	843
+None	844
+Peanuts	845
+Gluten	846
+Shellfish	847
+Tree Nuts	848
+Milk	849
+Eggs	850
+Soy	851
+Fish	852
+None	853
+Peanuts	854
+Gluten	855
+Shellfish	856
+Tree Nuts	857
+Milk	858
+Eggs	859
+Soy	860
+Fish	861
+None	862
+Peanuts	863
+Gluten	864
+Shellfish	865
+Tree Nuts	866
+Milk	867
+Eggs	868
+Soy	869
+Fish	870
+None	871
+Peanuts	872
+Gluten	873
+Shellfish	874
+Tree Nuts	875
+Milk	876
+Eggs	877
+Soy	878
+Fish	879
+None	880
+Peanuts	881
+Gluten	882
+Shellfish	883
+Tree Nuts	884
+Milk	885
+Eggs	886
+Soy	887
+Fish	888
+None	889
+Peanuts	890
+Gluten	891
+Shellfish	892
+Tree Nuts	893
+Milk	894
+Eggs	895
+Soy	896
+Fish	897
+None	898
+Peanuts	899
+Gluten	900
+Shellfish	901
+Tree Nuts	902
+Milk	903
+Eggs	904
+Soy	905
+Fish	906
+None	907
+Peanuts	908
+Gluten	909
+Shellfish	910
+Tree Nuts	911
+Milk	912
+Eggs	913
+Soy	914
+Fish	915
+None	916
+Peanuts	917
+Gluten	918
+Shellfish	919
+Tree Nuts	920
+Milk	921
+Eggs	922
+Soy	923
+Fish	924
+None	925
+Peanuts	926
+Gluten	927
+Shellfish	928
+Tree Nuts	929
+Milk	930
+Eggs	931
+Soy	932
+Fish	933
+None	934
+Peanuts	935
+Gluten	936
+Shellfish	937
+Tree Nuts	938
+Milk	939
+Eggs	940
+Soy	941
+Fish	942
+None	943
+Peanuts	944
+Gluten	945
+Shellfish	946
+Tree Nuts	947
+Milk	948
+Eggs	949
+Soy	950
+Fish	951
+None	952
+Peanuts	953
+Gluten	954
+Shellfish	955
+Tree Nuts	956
+Milk	957
+Eggs	958
+Soy	959
+Fish	960
+None	961
+Peanuts	962
+Gluten	963
+Shellfish	964
+Tree Nuts	965
+Milk	966
+Eggs	967
+Soy	968
+Fish	969
+None	970
+Peanuts	971
+Gluten	972
+Shellfish	973
+Tree Nuts	974
+Milk	975
+Eggs	976
+Soy	977
+Fish	978
+None	979
+Peanuts	980
+Gluten	981
+Shellfish	982
+Tree Nuts	983
+Milk	984
+Eggs	985
+Soy	986
+Fish	987
+None	988
+Peanuts	989
+Gluten	990
+Shellfish	991
+Tree Nuts	992
+Milk	993
+Eggs	994
+Soy	995
+Fish	996
+None	997
+Peanuts	998
+Gluten	999
+Shellfish	1000

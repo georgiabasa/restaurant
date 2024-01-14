@@ -1,0 +1,10 @@
+Cake	Wine	1
+Ice Cream	Beer	2
+Brownies	Tea	3
+Cheesecake	Champagne	4
+Cake	Wine	5
+Ice Cream	Beer	6
+Brownies	Tea	7
+Cheesecake	Champagne	8
+Cake	Wine	9
+Ice Cream	Beer	10

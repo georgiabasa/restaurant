@@ -1,0 +1,77 @@
+
+import sqlite3
+from timeit import default_timer as timer
+
+#12 SELECT ID FROM KRATHSH WHERE date(Arrival)=? --- 20db
+print("DB 20")
+
+conn=sqlite3.connect("r20_noindex.db")
+cursor=conn.cursor()
+start1=timer()
+cursor.execute('''SELECT ID FROM KRATHSH WHERE date(Arrival)="2024-01-20"''')
+end1=timer()
+data1=cursor.fetchall()
+conn.close()
+print(data1)
+print("Time without index: ", end1-start1)
+print("--------------------------------------------------")
+conn=sqlite3.connect("r20_index.db")
+cursor=conn.cursor()
+start2=timer()
+cursor.execute('''SELECT ID FROM KRATHSH WHERE date(Arrival)="2024-01-20"''')
+end2=timer()
+data2=cursor.fetchall()
+conn.close()
+print(data2)
+print("Time with index: ", end2-start2)
+print("--------------------------------------------------")
+
+
+#12 SELECT ID FROM KRATHSH WHERE date(Arrival)=? --- 1000db
+print("DB 1000")
+
+conn=sqlite3.connect("r1000_noindex.db")
+cursor=conn.cursor()
+start3=timer()
+cursor.execute('''SELECT ID FROM KRATHSH WHERE date(Arrival)="2024-01-05"''')
+end3=timer()
+data3=cursor.fetchall()
+conn.close()
+print(data3)
+print("Time without index: ", end3-start3)
+print("--------------------------------------------------")
+conn=sqlite3.connect("r1000_index.db")
+cursor=conn.cursor()
+start4=timer()
+cursor.execute('''SELECT ID FROM KRATHSH WHERE date(Arrival)="2024-01-05"''')
+end4=timer()
+data4=cursor.fetchall()
+conn.close()
+print(data4)
+print("Time with index: ", end4-start4)
+print("--------------------------------------------------")
+
+#12 SELECT ID FROM KRATHSH WHERE date(Arrival)=? --- 5000db
+print("DB 5000")
+
+conn=sqlite3.connect("r5000_noindex.db")
+cursor=conn.cursor()
+start5=timer()
+cursor.execute('''SELECT ID FROM KRATHSH WHERE date(Arrival)="2024-01-03"''')
+end5=timer()
+data5=cursor.fetchall()
+conn.close()
+print(data5)
+print("Time without index: ", end5-start5)
+print("--------------------------------------------------")
+conn=sqlite3.connect("r5000_index.db")
+cursor=conn.cursor()
+start6=timer()
+cursor.execute('''SELECT ID FROM KRATHSH WHERE date(Arrival)="2024-01-03"''')
+end6=timer()
+data6=cursor.fetchall()
+conn.close()
+print(data6)
+print("Time with index: ", end6-start6)
+print("--------------------------------------------------")
+

@@ -1,0 +1,12 @@
+Peanuts	1
+Gluten	1
+Shellfish	2
+Tree Nuts	2
+None	3
+Milk	4
+Eggs	5
+None	6
+Soy	7
+None	8
+None	9
+Fish	10

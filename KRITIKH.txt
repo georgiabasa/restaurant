@@ -1,0 +1,720 @@
+1	2	1	Great service!
+2	5	2	Amazing experience!
+3	4	3	Food was delicious.
+4	3	4	Decent, but could be better.
+5	1	5	Not satisfied with the service.
+6	5	6	Outstanding!
+7	2	7	Disappointing.
+8	4	8	Good value for money.
+9	3	9	Fair experience.
+10	1	10	Poor service.
+11	5	11	Loved the atmosphere!
+12	2	12	Mediocre food.
+13	4	13	Enjoyed the meal.
+14	3	14	OK service.
+15	1	15	Won't come back.
+16	5	16	Highly recommended!
+17	2	17	Not worth the price.
+18	4	18	Friendly staff.
+19	3	19	Average experience.
+20	1	20	Bad food quality.
+21	5	21	Excellent service!
+22	2	22	Overpriced menu.
+23	4	23	Satisfied with the meal.
+24	3	24	Slow service.
+25	1	25	Terrible experience.
+26	5	26	Perfect night out!
+27	2	27	Needs improvement.
+28	4	28	Worth the visit.
+29	3	29	Standard service.
+30	1	30	Avoid this place.
+31	5	31	Fantastic ambiance!
+32	2	32	Not recommended.
+33	4	33	Enjoyable evening.
+34	3	34	Fairly good service.
+35	1	35	Poorly managed.
+36	5	36	Top-notch experience!
+37	2	37	Unpleasant atmosphere.
+38	4	38	Great value for money.
+39	3	39	Decent place.
+40	1	40	Horrible service.
+41	5	41	Loved the food!
+42	2	42	Meh.
+43	4	43	Satisfactory.
+44	3	44	Prompt service.
+45	1	45	Disgusting meal.
+46	5	46	Exceptional service!
+47	2	47	Overcrowded.
+48	4	48	Good variety of dishes.
+49	3	49	Moderate experience.
+50	1	50	Worst restaurant ever.
+51	5	51	Excellent food!
+52	2	52	Average.
+53	4	53	Nice presentation.
+54	3	54	Unimpressive service.
+55	1	55	Never coming back.
+56	5	56	Outstanding dishes!
+57	2	57	Not worth the hype.
+58	4	58	Reasonable pricing.
+59	3	59	Standard fare.
+60	1	60	Awful experience.
+61	5	61	Perfect meal!
+62	2	62	Lousy.
+63	4	63	Satisfying portions.
+64	3	64	Attentive staff.
+65	1	65	Horrendous service.
+66	5	66	Wonderful ambiance!
+67	2	67	Needs improvement.
+68	4	68	Worth the price.
+69	3	69	Good service.
+70	1	70	Terrible place.
+71	5	71	Exquisite taste!
+72	2	72	Not recommended.
+73	4	73	Great menu selection.
+74	3	74	Mediocre service.
+75	1	75	Poorly managed.
+76	5	76	Loved every bite!
+77	2	77	Overrated.
+78	4	78	Good overall experience.
+79	3	79	Average service.
+80	1	80	Would not recommend.
+81	5	81	Delightful flavors!
+82	2	82	Meh.
+83	4	83	Satisfactory.
+84	3	84	Quick service.
+85	1	85	Disappointing meal.
+86	5	86	Exceptional service!
+87	2	87	Overcrowded.
+88	4	88	Good variety of dishes.
+89	3	89	Moderate experience.
+90	1	90	Worst restaurant ever.
+91	5	91	Excellent food!
+92	2	92	Average.
+93	4	93	Nice presentation.
+94	3	94	Unimpressive service.
+95	1	95	Never coming back.
+96	5	96	Outstanding dishes!
+97	2	97	Not worth the hype.
+98	4	98	Reasonable pricing.
+99	3	99	Standard fare.
+100	1	100	Awful experience.
+101	5	101	Loved the experience!
+102	2	102	Overrated.
+103	4	103	Great variety of dishes.
+104	3	104	Fair service.
+105	1	105	Poorly managed.
+106	5	106	Exquisite taste!
+107	2	107	Meh.
+108	4	108	Satisfactory.
+109	3	109	Quick service.
+110	1	110	Disappointing meal.
+111	5	111	Exceptional service!
+112	2	112	Overcrowded.
+113	4	113	Good variety of dishes.
+114	3	114	Moderate experience.
+115	1	115	Worst restaurant ever.
+116	5	116	Excellent food!
+117	2	117	Average.
+118	4	118	Nice presentation.
+119	3	119	Unimpressive service.
+120	1	120	Never coming back.
+121	5	121	Outstanding dishes!
+122	2	122	Not worth the hype.
+123	4	123	Reasonable pricing.
+124	3	124	Standard fare.
+125	1	125	Poorly managed.
+126	5	126	Loved every bite!
+127	2	127	Overrated.
+128	4	128	Good overall experience.
+129	3	129	Average service.
+130	1	130	Would not recommend.
+131	5	131	Delightful flavors!
+132	2	132	Meh.
+133	4	133	Satisfactory.
+134	3	134	Quick service.
+135	1	135	Disappointing meal.
+136	5	136	Exceptional service!
+137	2	137	Overcrowded.
+138	4	138	Good variety of dishes.
+139	3	139	Moderate experience.
+140	1	140	Worst restaurant ever.
+141	5	141	Excellent food!
+142	2	142	Average.
+143	4	143	Nice presentation.
+144	3	144	Unimpressive service.
+145	1	145	Never coming back.
+146	5	146	Outstanding dishes!
+147	2	147	Not worth the hype.
+148	4	148	Reasonable pricing.
+149	3	149	Standard fare.
+150	1	150	Poorly managed.
+151	5	151	Loved every bite!
+152	2	152	Overrated.
+153	4	153	Good overall experience.
+154	3	154	Average service.
+155	1	155	Would not recommend.
+156	5	156	Delightful flavors!
+157	2	157	Meh.
+158	4	158	Satisfactory.
+159	3	159	Quick service.
+160	1	160	Disappointing meal.
+161	5	161	Exceptional service!
+162	2	162	Overcrowded.
+163	4	163	Good variety of dishes.
+164	3	164	Moderate experience.
+165	1	165	Worst restaurant ever.
+166	5	166	Excellent food!
+167	2	167	Average.
+168	4	168	Nice presentation.
+169	3	169	Unimpressive service.
+170	1	170	Never coming back.
+171	5	171	Outstanding dishes!
+172	2	172	Not worth the hype.
+173	4	173	Reasonable pricing.
+174	3	174	Standard fare.
+175	1	175	Poorly managed.
+176	5	176	Loved every bite!
+177	2	177	Overrated.
+178	4	178	Good overall experience.
+179	3	179	Average service.
+180	1	180	Would not recommend.
+181	5	181	Delightful flavors!
+182	2	182	Meh.
+183	4	183	Satisfactory.
+184	3	184	Quick service.
+185	1	185	Disappointing meal.
+186	5	186	Exceptional service!
+187	2	187	Overcrowded.
+188	4	188	Good variety of dishes.
+189	3	189	Moderate experience.
+190	1	190	Worst restaurant ever.
+191	5	191	Excellent food!
+192	2	192	Average.
+193	4	193	Nice presentation.
+194	3	194	Unimpressive service.
+195	1	195	Never coming back.
+196	5	196	Outstanding dishes!
+197	2	197	Not worth the hype.
+198	4	198	Reasonable pricing.
+199	3	199	Standard fare.
+200	1	200	Poorly managed.
+201	5	201	Loved the experience!
+202	2	202	Overrated.
+203	4	203	Great variety of dishes.
+204	3	204	Fair service.
+205	1	205	Poorly managed.
+206	5	206	Exquisite taste!
+207	2	207	Meh.
+208	4	208	Satisfactory.
+209	3	209	Quick service.
+210	1	210	Disappointing meal.
+211	5	211	Exceptional service!
+212	2	212	Overcrowded.
+213	4	213	Good variety of dishes.
+214	3	214	Moderate experience.
+215	1	215	Worst restaurant ever.
+216	5	216	Excellent food!
+217	2	217	Average.
+218	4	218	Nice presentation.
+219	3	219	Unimpressive service.
+220	1	220	Never coming back.
+221	5	221	Outstanding dishes!
+222	2	222	Not worth the hype.
+223	4	223	Reasonable pricing.
+224	3	224	Standard fare.
+225	1	225	Poorly managed.
+226	5	226	Loved every bite!
+227	2	227	Overrated.
+228	4	228	Good overall experience.
+229	3	229	Average service.
+230	1	230	Would not recommend.
+231	5	231	Delightful flavors!
+232	2	232	Meh.
+233	4	233	Satisfactory.
+234	3	234	Quick service.
+235	1	235	Disappointing meal.
+236	5	236	Exceptional service!
+237	2	237	Overcrowded.
+238	4	238	Good variety of dishes.
+239	3	239	Moderate experience.
+240	1	240	Worst restaurant ever.
+241	5	241	Excellent food!
+242	2	242	Average.
+243	4	243	Nice presentation.
+244	3	244	Unimpressive service.
+245	1	245	Never coming back.
+246	5	246	Outstanding dishes!
+247	2	247	Not worth the hype.
+248	4	248	Reasonable pricing.
+249	3	249	Standard fare.
+250	1	250	Poorly managed.
+251	5	251	Loved every bite!
+252	2	252	Overrated.
+253	4	253	Good overall experience.
+254	3	254	Average service.
+255	1	255	Would not recommend.
+256	5	256	Delightful flavors!
+257	2	257	Meh.
+258	4	258	Satisfactory.
+259	3	259	Quick service.
+260	1	260	Disappointing meal.
+261	5	261	Exceptional service!
+262	2	262	Overcrowded.
+263	4	263	Good variety of dishes.
+264	3	264	Moderate experience.
+265	1	265	Worst restaurant ever.
+266	5	266	Excellent food!
+267	2	267	Average.
+268	4	268	Nice presentation.
+269	3	269	Unimpressive service.
+270	1	270	Never coming back.
+271	5	271	Outstanding dishes!
+272	2	272	Not worth the hype.
+273	4	273	Reasonable pricing.
+274	3	274	Standard fare.
+275	1	275	Poorly managed.
+276	5	276	Loved every bite!
+277	2	277	Overrated.
+278	4	278	Good overall experience.
+279	3	279	Average service.
+280	1	280	Would not recommend.
+281	5	281	Delightful flavors!
+282	2	282	Meh.
+283	4	283	Satisfactory.
+284	3	284	Quick service.
+285	1	285	Disappointing meal.
+286	5	286	Exceptional service!
+287	2	287	Overcrowded.
+288	4	288	Good variety of dishes.
+289	3	289	Moderate experience.
+290	1	290	Worst restaurant ever.
+291	5	291	Excellent food!
+292	2	292	Average.
+293	4	293	Nice presentation.
+294	3	294	Unimpressive service.
+295	1	295	Never coming back.
+296	5	296	Outstanding dishes!
+297	2	297	Not worth the hype.
+298	4	298	Reasonable pricing.
+299	3	299	Standard fare.
+300	1	300	Poorly managed.
+301	5	301	Loved every bite!
+302	2	302	Overrated.
+303	4	303	Good overall experience.
+304	3	304	Average service.
+305	1	305	Would not recommend.
+306	5	306	Delightful flavors!
+307	2	307	Meh.
+308	4	308	Satisfactory.
+309	3	309	Quick service.
+310	1	310	Disappointing meal.
+311	5	311	Exceptional service!
+312	2	312	Overcrowded.
+313	4	313	Good variety of dishes.
+314	3	314	Moderate experience.
+315	1	315	Worst restaurant ever.
+316	5	316	Excellent food!
+317	2	317	Average.
+318	4	318	Nice presentation.
+319	3	319	Unimpressive service.
+320	1	320	Never coming back.
+321	5	321	Outstanding dishes!
+322	2	322	Not worth the hype.
+323	4	323	Reasonable pricing.
+324	3	324	Standard fare.
+325	1	325	Poorly managed.
+326	5	326	Loved every bite!
+327	2	327	Overrated.
+328	4	328	Good overall experience.
+329	3	329	Average service.
+330	1	330	Would not recommend.
+331	5	331	Delightful flavors!
+332	2	332	Meh.
+333	4	333	Satisfactory.
+334	3	334	Quick service.
+335	1	335	Disappointing meal.
+336	5	336	Exceptional service!
+337	2	337	Overcrowded.
+338	4	338	Good variety of dishes.
+339	3	339	Moderate experience.
+340	1	340	Worst restaurant ever.
+341	5	341	Excellent food!
+342	2	342	Average.
+343	4	343	Nice presentation.
+344	3	344	Unimpressive service.
+345	1	345	Never coming back.
+346	5	346	Outstanding dishes!
+347	2	347	Not worth the hype.
+348	4	348	Reasonable pricing.
+349	3	349	Standard fare.
+350	1	350	Poorly managed.
+351	5	351	Loved every bite!
+352	2	352	Overrated.
+353	4	353	Good overall experience.
+354	3	354	Average service.
+355	1	355	Would not recommend.
+356	5	356	Delightful flavors!
+357	2	357	Meh.
+358	4	358	Satisfactory.
+359	3	359	Quick service.
+360	1	360	Disappointing meal.
+361	5	361	Exceptional service!
+362	2	362	Overcrowded.
+363	4	363	Good variety of dishes.
+364	3	364	Moderate experience.
+365	1	365	Worst restaurant ever.
+366	5	366	Excellent food!
+367	2	367	Average.
+368	4	368	Nice presentation.
+369	3	369	Unimpressive service.
+370	1	370	Never coming back.
+371	5	371	Outstanding dishes!
+372	2	372	Not worth the hype.
+373	4	373	Reasonable pricing.
+374	3	374	Standard fare.
+375	1	375	Poorly managed.
+376	5	376	Loved every bite!
+377	2	377	Overrated.
+378	4	378	Good overall experience.
+379	3	379	Average service.
+380	1	380	Would not recommend.
+381	5	381	Delightful flavors!
+382	2	382	Meh.
+383	4	383	Satisfactory.
+384	3	384	Quick service.
+385	1	385	Disappointing meal.
+386	5	386	Exceptional service!
+387	2	387	Overcrowded.
+388	4	388	Good variety of dishes.
+389	3	389	Moderate experience.
+390	1	390	Worst restaurant ever.
+391	5	391	Excellent food!
+392	2	392	Average.
+393	4	393	Nice presentation.
+394	3	394	Unimpressive service.
+395	1	395	Never coming back.
+396	5	396	Outstanding dishes!
+397	2	397	Not worth the hype.
+398	4	398	Reasonable pricing.
+399	3	399	Standard fare.
+400	1	400	Poorly managed.
+401	5	401	Loved the experience!
+402	2	402	Overrated.
+403	4	403	Great variety of dishes.
+404	3	404	Fair service.
+405	1	405	Poorly managed.
+406	5	406	Exquisite taste!
+407	2	407	Meh.
+408	4	408	Satisfactory.
+409	3	409	Quick service.
+410	1	410	Disappointing meal.
+411	5	411	Exceptional service!
+412	2	412	Overcrowded.
+413	4	413	Good variety of dishes.
+414	3	414	Moderate experience.
+415	1	415	Worst restaurant ever.
+416	5	416	Excellent food!
+417	2	417	Average.
+418	4	418	Nice presentation.
+419	3	419	Unimpressive service.
+420	1	420	Never coming back.
+421	5	421	Outstanding dishes!
+422	2	422	Not worth the hype.
+423	4	423	Reasonable pricing.
+424	3	424	Standard fare.
+425	1	425	Poorly managed.
+426	5	426	Loved every bite!
+427	2	427	Overrated.
+428	4	428	Good overall experience.
+429	3	429	Average service.
+430	1	430	Would not recommend.
+431	5	431	Delightful flavors!
+432	2	432	Meh.
+433	4	433	Satisfactory.
+434	3	434	Quick service.
+435	1	435	Disappointing meal.
+436	5	436	Exceptional service!
+437	2	437	Overcrowded.
+438	4	438	Good variety of dishes.
+439	3	439	Moderate experience.
+440	1	440	Worst restaurant ever.
+441	5	441	Excellent food!
+442	2	442	Average.
+443	4	443	Nice presentation.
+444	3	444	Unimpressive service.
+445	1	445	Never coming back.
+446	5	446	Outstanding dishes!
+447	2	447	Not worth the hype.
+448	4	448	Reasonable pricing.
+449	3	449	Standard fare.
+450	1	450	Poorly managed.
+451	5	451	Loved every bite!
+452	2	452	Overrated.
+453	4	453	Good overall experience.
+454	3	454	Average service.
+455	1	455	Would not recommend.
+456	5	456	Delightful flavors!
+457	2	457	Meh.
+458	4	458	Satisfactory.
+459	3	459	Quick service.
+460	1	460	Disappointing meal.
+461	5	461	Exceptional service!
+462	2	462	Overcrowded.
+463	4	463	Good variety of dishes.
+464	3	464	Moderate experience.
+465	1	465	Worst restaurant ever.
+466	5	466	Excellent food!
+467	2	467	Average.
+468	4	468	Nice presentation.
+469	3	469	Unimpressive service.
+470	1	470	Never coming back.
+471	5	471	Outstanding dishes!
+472	2	472	Not worth the hype.
+473	4	473	Reasonable pricing.
+474	3	474	Standard fare.
+475	1	475	Poorly managed.
+476	5	476	Loved every bite!
+477	2	477	Overrated.
+478	4	478	Good overall experience.
+479	3	479	Average service.
+480	1	480	Would not recommend.
+481	5	481	Delightful flavors!
+482	2	482	Meh.
+483	4	483	Satisfactory.
+484	3	484	Quick service.
+485	1	485	Disappointing meal.
+486	5	486	Exceptional service!
+487	2	487	Overcrowded.
+488	4	488	Good variety of dishes.
+489	3	489	Moderate experience.
+490	1	490	Worst restaurant ever.
+491	5	491	Excellent food!
+492	2	492	Average.
+493	4	493	Nice presentation.
+494	3	494	Unimpressive service.
+495	1	495	Never coming back.
+496	5	496	Outstanding dishes!
+497	2	497	Not worth the hype.
+498	4	498	Reasonable pricing.
+499	3	499	Standard fare.
+500	1	500	Poorly managed.
+501	5	501	Loved every bite!
+502	2	502	Overrated.
+503	4	503	Good overall experience.
+504	3	504	Average service.
+505	1	505	Would not recommend.
+506	5	506	Delightful flavors!
+507	2	507	Meh.
+508	4	508	Satisfactory.
+509	3	509	Quick service.
+510	1	510	Disappointing meal.
+511	5	511	Exceptional service!
+512	2	512	Overcrowded.
+513	4	513	Good variety of dishes.
+514	3	514	Moderate experience.
+515	1	515	Worst restaurant ever.
+516	5	516	Excellent food!
+517	2	517	Average.
+518	4	518	Nice presentation.
+519	3	519	Unimpressive service.
+520	1	520	Never coming back.
+521	5	521	Outstanding dishes!
+522	2	522	Not worth the hype.
+523	4	523	Reasonable pricing.
+524	3	524	Standard fare.
+525	1	525	Poorly managed.
+526	5	526	Loved every bite!
+527	2	527	Overrated.
+528	4	528	Good overall experience.
+529	3	529	Average service.
+530	1	530	Would not recommend.
+531	5	531	Delightful flavors!
+532	2	532	Meh.
+533	4	533	Satisfactory.
+534	3	534	Quick service.
+535	1	535	Disappointing meal.
+536	5	536	Exceptional service!
+537	2	537	Overcrowded.
+538	4	538	Good variety of dishes.
+539	3	539	Moderate experience.
+540	1	540	Worst restaurant ever.
+541	5	541	Excellent food!
+542	2	542	Average.
+543	4	543	Nice presentation.
+544	3	544	Unimpressive service.
+545	1	545	Never coming back.
+546	5	546	Outstanding dishes!
+547	2	547	Not worth the hype.
+548	4	548	Reasonable pricing.
+549	3	549	Standard fare.
+550	1	550	Poorly managed.
+551	5	551	Loved every bite!
+552	2	552	Overrated.
+553	4	553	Good overall experience.
+554	3	554	Average service.
+555	1	555	Would not recommend.
+556	5	556	Delightful flavors!
+557	2	557	Meh.
+558	4	558	Satisfactory.
+559	3	559	Quick service.
+560	1	560	Disappointing meal.
+561	5	561	Exceptional service!
+562	2	562	Overcrowded.
+563	4	563	Good variety of dishes.
+564	3	564	Moderate experience.
+565	1	565	Worst restaurant ever.
+566	5	566	Excellent food!
+567	2	567	Average.
+568	4	568	Nice presentation.
+569	3	569	Unimpressive service.
+570	1	570	Never coming back.
+571	5	571	Outstanding dishes!
+572	2	572	Not worth the hype.
+573	4	573	Reasonable pricing.
+574	3	574	Standard fare.
+575	1	575	Poorly managed.
+576	5	576	Loved every bite!
+577	2	577	Overrated.
+578	4	578	Good overall experience.
+579	3	579	Average service.
+580	1	580	Would not recommend.
+581	5	581	Delightful flavors!
+582	2	582	Meh.
+583	4	583	Satisfactory.
+584	3	584	Quick service.
+585	1	585	Disappointing meal.
+586	5	586	Exceptional service!
+587	2	587	Overcrowded.
+588	4	588	Good variety of dishes.
+589	3	589	Moderate experience.
+590	1	590	Worst restaurant ever.
+591	5	591	Excellent food!
+592	2	592	Average.
+593	4	593	Nice presentation.
+594	3	594	Unimpressive service.
+595	1	595	Never coming back.
+596	5	596	Outstanding dishes!
+597	2	597	Not worth the hype.
+598	4	598	Reasonable pricing.
+599	3	599	Standard fare.
+600	1	600	Poorly managed.
+601	5	601	Loved the experience!
+602	2	602	Overrated.
+603	4	603	Great variety of dishes.
+604	3	604	Fair service.
+605	1	605	Poorly managed.
+606	5	606	Exquisite taste!
+607	2	607	Meh.
+608	4	608	Satisfactory.
+609	3	609	Quick service.
+610	1	610	Disappointing meal.
+611	5	611	Exceptional service!
+612	2	612	Overcrowded.
+613	4	613	Good variety of dishes.
+614	3	614	Moderate experience.
+615	1	615	Worst restaurant ever.
+616	5	616	Excellent food!
+617	2	617	Average.
+618	4	618	Nice presentation.
+619	3	619	Unimpressive service.
+620	1	620	Never coming back.
+621	5	621	Outstanding dishes!
+622	2	622	Not worth the hype.
+623	4	623	Reasonable pricing.
+624	3	624	Standard fare.
+625	1	625	Poorly managed.
+626	5	626	Loved every bite!
+627	2	627	Overrated.
+628	4	628	Good overall experience.
+629	3	629	Average service.
+630	1	630	Would not recommend.
+631	5	631	Delightful flavors!
+632	2	632	Meh.
+633	4	633	Satisfactory.
+634	3	634	Quick service.
+635	1	635	Disappointing meal.
+636	5	636	Exceptional service!
+637	2	637	Overcrowded.
+638	4	638	Good variety of dishes.
+639	3	639	Moderate experience.
+640	1	640	Worst restaurant ever.
+641	5	641	Excellent food!
+642	2	642	Average.
+643	4	643	Nice presentation.
+644	3	644	Unimpressive service.
+645	1	645	Never coming back.
+646	5	646	Outstanding dishes!
+647	2	647	Not worth the hype.
+648	4	648	Reasonable pricing.
+649	3	649	Standard fare.
+650	1	650	Poorly managed.
+651	5	651	Loved every bite!
+652	2	652	Overrated.
+653	4	653	Good overall experience.
+654	3	654	Average service.
+655	1	655	Would not recommend.
+656	5	656	Delightful flavors!
+657	2	657	Meh.
+658	4	658	Satisfactory.
+659	3	659	Quick service.
+660	1	660	Disappointing meal.
+661	5	661	Exceptional service!
+662	2	662	Overcrowded.
+663	4	663	Good variety of dishes.
+664	3	664	Moderate experience.
+665	1	665	Worst restaurant ever.
+666	5	666	Excellent food!
+667	2	667	Average.
+668	4	668	Nice presentation.
+669	3	669	Unimpressive service.
+670	1	670	Never coming back.
+671	5	671	Outstanding dishes!
+672	2	672	Not worth the hype.
+673	4	673	Reasonable pricing.
+674	3	674	Standard fare.
+675	1	675	Poorly managed.
+676	5	676	Loved every bite!
+677	2	677	Overrated.
+678	4	678	Good overall experience.
+679	3	679	Average service.
+680	1	680	Would not recommend.
+681	5	681	Delightful flavors!
+682	2	682	Meh.
+683	4	683	Satisfactory.
+684	3	684	Quick service.
+685	1	685	Disappointing meal.
+686	5	686	Exceptional service!
+687	2	687	Overcrowded.
+688	4	688	Good variety of dishes.
+689	3	689	Moderate experience.
+690	1	690	Worst restaurant ever.
+691	5	691	Excellent food!
+692	2	692	Average.
+693	4	693	Nice presentation.
+694	3	694	Unimpressive service.
+695	1	695	Never coming back.
+696	5	696	Outstanding dishes!
+697	2	697	Not worth the hype.
+698	4	698	Reasonable pricing.
+699	3	699	Standard fare.
+700	1	700	Poorly managed.
+701	5	701	Loved every bite!
+702	2	702	Overrated.
+703	4	703	Good overall experience.
+704	3	704	Average service.
+705	1	705	Would not recommend.
+706	5	706	Delightful flavors!
+707	2	707	Meh.
+708	4	708	Satisfactory.
+709	3	709	Quick service.
+710	1	710	NULL
+711	5	711	NULL
+712	2	712	NULL
+713	4	713	NULL
+714	3	714	NULL
+715	1	715	NULL
+716	5	716	NULL
+717	2	717	NULL
+718	4	718	NULL
+719	3	719	NULL
+720	1	720	NULL

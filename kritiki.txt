@@ -1,0 +1,12 @@
+10001	4	1	Great experience!
+10002	5	2	Amazing service.
+10003	3	3	Good but could be better.
+10004	2	4	Disappointing.
+10005	5	5	Highly recommended!
+10006	4	6	Enjoyed my stay.
+10007	1	7	Horrible service.
+10008	5	8	Perfect!
+10009	3	9	Not bad.
+10010	4	10	Good value for money.
+10011	5	11	Exceptional staff.
+10012	4	17	Nice location.

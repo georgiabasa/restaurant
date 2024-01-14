@@ -1,0 +1,1000 @@
+Cake	Wine	1
+Ice Cream	Beer	2
+Brownies	Tea	3
+Cheesecake	Other	4
+Other	Champagne	5
+Cake	Wine	6
+Ice Cream	Beer	7
+Brownies	Tea	8
+Cheesecake	Other	9
+Other	Champagne	10
+Cake	Wine	11
+Ice Cream	Beer	12
+Brownies	Tea	13
+Cheesecake	Other	14
+Other	Champagne	15
+Cake	Wine	16
+Ice Cream	Beer	17
+Brownies	Tea	18
+Cheesecake	Other	19
+Other	Champagne	20
+Cake	Wine	21
+Ice Cream	Beer	22
+Brownies	Tea	23
+Cheesecake	Other	24
+Other	Champagne	25
+Cake	Wine	26
+Ice Cream	Beer	27
+Brownies	Tea	28
+Cheesecake	Other	29
+Other	Champagne	30
+Cake	Wine	31
+Ice Cream	Beer	32
+Brownies	Tea	33
+Cheesecake	Other	34
+Other	Champagne	35
+Cake	Wine	36
+Ice Cream	Beer	37
+Brownies	Tea	38
+Cheesecake	Other	39
+Other	Champagne	40
+Cake	Wine	41
+Ice Cream	Beer	42
+Brownies	Tea	43
+Cheesecake	Other	44
+Other	Champagne	45
+Cake	Wine	46
+Ice Cream	Beer	47
+Brownies	Tea	48
+Cheesecake	Other	49
+Other	Champagne	50
+Cake	Wine	51
+Ice Cream	Beer	52
+Brownies	Tea	53
+Cheesecake	Other	54
+Other	Champagne	55
+Cake	Wine	56
+Ice Cream	Beer	57
+Brownies	Tea	58
+Cheesecake	Other	59
+Other	Champagne	60
+Cake	Wine	61
+Ice Cream	Beer	62
+Brownies	Tea	63
+Cheesecake	Other	64
+Other	Champagne	65
+Cake	Wine	66
+Ice Cream	Beer	67
+Brownies	Tea	68
+Cheesecake	Other	69
+Other	Champagne	70
+Cake	Wine	71
+Ice Cream	Beer	72
+Brownies	Tea	73
+Cheesecake	Other	74
+Other	Champagne	75
+Cake	Wine	76
+Ice Cream	Beer	77
+Brownies	Tea	78
+Cheesecake	Other	79
+Other	Champagne	80
+Cake	Wine	81
+Ice Cream	Beer	82
+Brownies	Tea	83
+Cheesecake	Other	84
+Other	Champagne	85
+Cake	Wine	86
+Ice Cream	Beer	87
+Brownies	Tea	88
+Cheesecake	Other	89
+Other	Champagne	90
+Cake	Wine	91
+Ice Cream	Beer	92
+Brownies	Tea	93
+Cheesecake	Other	94
+Other	Champagne	95
+Cake	Wine	96
+Ice Cream	Beer	97
+Brownies	Tea	98
+Cheesecake	Other	99
+Other	Champagne	100
+Ice Cream	Tea	101
+Brownies	Other	102
+Cheesecake	Champagne	103
+Other	Wine	104
+Cake	Beer	105
+Ice Cream	Tea	106
+Brownies	Other	107
+Cheesecake	Champagne	108
+Other	Wine	109
+Cake	Beer	110
+Ice Cream	Tea	111
+Brownies	Other	112
+Cheesecake	Champagne	113
+Other	Wine	114
+Cake	Beer	115
+Ice Cream	Tea	116
+Brownies	Other	117
+Cheesecake	Champagne	118
+Other	Wine	119
+Cake	Beer	120
+Ice Cream	Tea	121
+Brownies	Other	122
+Cheesecake	Champagne	123
+Other	Wine	124
+Cake	Beer	125
+Ice Cream	Tea	126
+Brownies	Other	127
+Cheesecake	Champagne	128
+Other	Wine	129
+Cake	Beer	130
+Ice Cream	Tea	131
+Brownies	Other	132
+Cheesecake	Champagne	133
+Other	Wine	134
+Cake	Beer	135
+Ice Cream	Tea	136
+Brownies	Other	137
+Cheesecake	Champagne	138
+Other	Wine	139
+Cake	Beer	140
+Ice Cream	Tea	141
+Brownies	Other	142
+Cheesecake	Champagne	143
+Other	Wine	144
+Cake	Beer	145
+Ice Cream	Tea	146
+Brownies	Other	147
+Cheesecake	Champagne	148
+Other	Wine	149
+Cake	Beer	150
+Ice Cream	Tea	151
+Brownies	Other	152
+Cheesecake	Champagne	153
+Other	Wine	154
+Cake	Beer	155
+Ice Cream	Tea	156
+Brownies	Other	157
+Cheesecake	Champagne	158
+Other	Wine	159
+Cake	Beer	160
+Ice Cream	Tea	161
+Brownies	Other	162
+Cheesecake	Champagne	163
+Other	Wine	164
+Cake	Beer	165
+Ice Cream	Tea	166
+Brownies	Other	167
+Cheesecake	Champagne	168
+Other	Wine	169
+Cake	Beer	170
+Ice Cream	Tea	171
+Brownies	Other	172
+Cheesecake	Champagne	173
+Other	Wine	174
+Cake	Beer	175
+Ice Cream	Tea	176
+Brownies	Other	177
+Cheesecake	Champagne	178
+Other	Wine	179
+Cake	Beer	180
+Ice Cream	Tea	181
+Brownies	Other	182
+Cheesecake	Champagne	183
+Other	Wine	184
+Cake	Beer	185
+Ice Cream	Tea	186
+Brownies	Other	187
+Cheesecake	Champagne	188
+Other	Wine	189
+Cake	Beer	190
+Ice Cream	Tea	191
+Brownies	Other	192
+Cheesecake	Champagne	193
+Other	Wine	194
+Cake	Beer	195
+Ice Cream	Tea	196
+Brownies	Other	197
+Cheesecake	Champagne	198
+Other	Wine	199
+Cake	Beer	200
+Ice Cream	Tea	201
+Brownies	Other	202
+Cheesecake	Champagne	203
+Other	Wine	204
+Cake	Beer	205
+Ice Cream	Tea	206
+Brownies	Other	207
+Cheesecake	Champagne	208
+Other	Wine	209
+Cake	Beer	210
+Ice Cream	Tea	211
+Brownies	Other	212
+Cheesecake	Champagne	213
+Other	Wine	214
+Cake	Beer	215
+Ice Cream	Tea	216
+Brownies	Other	217
+Cheesecake	Champagne	218
+Other	Wine	219
+Cake	Beer	220
+Ice Cream	Tea	221
+Brownies	Other	222
+Cheesecake	Champagne	223
+Other	Wine	224
+Cake	Beer	225
+Ice Cream	Tea	226
+Brownies	Other	227
+Cheesecake	Champagne	228
+Other	Wine	229
+Cake	Beer	230
+Ice Cream	Tea	231
+Brownies	Other	232
+Cheesecake	Champagne	233
+Other	Wine	234
+Cake	Beer	235
+Ice Cream	Tea	236
+Brownies	Other	237
+Cheesecake	Champagne	238
+Other	Wine	239
+Cake	Beer	240
+Ice Cream	Tea	241
+Brownies	Other	242
+Cheesecake	Champagne	243
+Other	Wine	244
+Cake	Beer	245
+Ice Cream	Tea	246
+Brownies	Other	247
+Cheesecake	Champagne	248
+Other	Wine	249
+Cake	Beer	250
+Ice Cream	Tea	251
+Brownies	Other	252
+Cheesecake	Champagne	253
+Brownies	Wine	254
+Cheesecake	Beer	255
+Other	Tea	256
+Cake	Champagne	257
+Ice Cream	Wine	258
+Brownies	Beer	259
+Cheesecake	Tea	260
+Other	Champagne	261
+Cake	Wine	262
+Ice Cream	Beer	263
+Brownies	Tea	264
+Cheesecake	Champagne	265
+Other	Wine	266
+Cake	Beer	267
+Ice Cream	Tea	268
+Brownies	Champagne	269
+Cheesecake	Wine	270
+Other	Beer	271
+Cake	Tea	272
+Ice Cream	Champagne	273
+Brownies	Wine	274
+Cheesecake	Beer	275
+Other	Tea	276
+Cake	Champagne	277
+Ice Cream	Wine	278
+Brownies	Beer	279
+Cheesecake	Tea	280
+Other	Champagne	281
+Cake	Wine	282
+Ice Cream	Beer	283
+Brownies	Tea	284
+Cheesecake	Champagne	285
+Other	Wine	286
+Cake	Beer	287
+Ice Cream	Tea	288
+Brownies	Champagne	289
+Cheesecake	Wine	290
+Other	Beer	291
+Cake	Tea	292
+Ice Cream	Champagne	293
+Brownies	Wine	294
+Cheesecake	Beer	295
+Other	Tea	296
+Cake	Champagne	297
+Ice Cream	Wine	298
+Brownies	Beer	299
+Cheesecake	Tea	300
+Other	Champagne	301
+Cake	Wine	302
+Ice Cream	Beer	303
+Brownies	Tea	304
+Cheesecake	Champagne	305
+Other	Wine	306
+Cake	Beer	307
+Ice Cream	Tea	308
+Brownies	Champagne	309
+Cheesecake	Wine	310
+Other	Beer	311
+Cake	Tea	312
+Ice Cream	Champagne	313
+Brownies	Wine	314
+Cheesecake	Beer	315
+Other	Tea	316
+Cake	Champagne	317
+Ice Cream	Wine	318
+Brownies	Beer	319
+Cheesecake	Tea	320
+Other	Champagne	321
+Cake	Wine	322
+Ice Cream	Beer	323
+Brownies	Tea	324
+Cheesecake	Champagne	325
+Other	Wine	326
+Cake	Beer	327
+Ice Cream	Tea	328
+Brownies	Champagne	329
+Cheesecake	Wine	330
+Other	Beer	331
+Cake	Tea	332
+Ice Cream	Champagne	333
+Brownies	Wine	334
+Cheesecake	Beer	335
+Other	Tea	336
+Cake	Champagne	337
+Ice Cream	Wine	338
+Brownies	Beer	339
+Cheesecake	Tea	340
+Other	Champagne	341
+Cake	Wine	342
+Ice Cream	Beer	343
+Brownies	Tea	344
+Cheesecake	Champagne	345
+Other	Wine	346
+Cake	Beer	347
+Ice Cream	Tea	348
+Brownies	Champagne	349
+Cheesecake	Wine	350
+Other	Beer	351
+Cake	Tea	352
+Ice Cream	Champagne	353
+Brownies	Wine	354
+Cheesecake	Beer	355
+Other	Tea	356
+Cake	Champagne	357
+Ice Cream	Wine	358
+Brownies	Beer	359
+Cheesecake	Tea	360
+Other	Champagne	361
+Cake	Wine	362
+Ice Cream	Beer	363
+Brownies	Tea	364
+Cheesecake	Champagne	365
+Other	Wine	366
+Cake	Beer	367
+Ice Cream	Tea	368
+Brownies	Champagne	369
+Cheesecake	Wine	370
+Other	Beer	371
+Cake	Tea	372
+Ice Cream	Champagne	373
+Brownies	Wine	374
+Cheesecake	Beer	375
+Other	Tea	376
+Cake	Champagne	377
+Ice Cream	Wine	378
+Brownies	Beer	379
+Cheesecake	Tea	380
+Other	Champagne	381
+Cake	Wine	382
+Ice Cream	Beer	383
+Brownies	Tea	384
+Cheesecake	Champagne	385
+Other	Wine	386
+Cake	Beer	387
+Ice Cream	Tea	388
+Brownies	Champagne	389
+Cheesecake	Wine	390
+Other	Beer	391
+Cake	Tea	392
+Ice Cream	Champagne	393
+Brownies	Wine	394
+Cheesecake	Beer	395
+Other	Tea	396
+Cake	Champagne	397
+Ice Cream	Wine	398
+Brownies	Beer	399
+Cheesecake	Tea	400
+Other	Champagne	401
+Cake	Wine	402
+Ice Cream	Beer	403
+Brownies	Tea	404
+Cheesecake	Champagne	405
+Other	Wine	406
+Cake	Beer	407
+Ice Cream	Tea	408
+Brownies	Champagne	409
+Cheesecake	Wine	410
+Other	Beer	411
+Cake	Tea	412
+Ice Cream	Champagne	413
+Brownies	Wine	414
+Cheesecake	Beer	415
+Other	Tea	416
+Cake	Champagne	417
+Ice Cream	Wine	418
+Brownies	Beer	419
+Cheesecake	Tea	420
+Other	Champagne	421
+Cake	Wine	422
+Ice Cream	Beer	423
+Brownies	Tea	424
+Cheesecake	Champagne	425
+Other	Wine	426
+Cake	Beer	427
+Ice Cream	Tea	428
+Brownies	Champagne	429
+Cheesecake	Wine	430
+Other	Beer	431
+Cake	Tea	432
+Ice Cream	Champagne	433
+Brownies	Wine	434
+Cheesecake	Beer	435
+Other	Tea	436
+Cake	Champagne	437
+Ice Cream	Wine	438
+Brownies	Beer	439
+Cheesecake	Tea	440
+Other	Champagne	441
+Cake	Wine	442
+Ice Cream	Beer	443
+Brownies	Tea	444
+Cheesecake	Champagne	445
+Other	Wine	446
+Cake	Beer	447
+Ice Cream	Tea	448
+Brownies	Champagne	449
+Cheesecake	Wine	450
+Other	Beer	451
+Cake	Tea	452
+Ice Cream	Champagne	453
+Brownies	Wine	454
+Cheesecake	Beer	455
+Other	Tea	456
+Cake	Champagne	457
+Ice Cream	Wine	458
+Brownies	Beer	459
+Cheesecake	Tea	460
+Other	Champagne	461
+Cake	Wine	462
+Ice Cream	Beer	463
+Brownies	Tea	464
+Cheesecake	Champagne	465
+Other	Wine	466
+Cake	Beer	467
+Ice Cream	Tea	468
+Brownies	Champagne	469
+Cheesecake	Wine	470
+Other	Beer	471
+Cake	Tea	472
+Ice Cream	Champagne	473
+Brownies	Wine	474
+Cheesecake	Beer	475
+Other	Tea	476
+Cake	Champagne	477
+Ice Cream	Wine	478
+Brownies	Beer	479
+Cheesecake	Tea	480
+Other	Champagne	481
+Cake	Wine	482
+Ice Cream	Beer	483
+Brownies	Tea	484
+Cheesecake	Champagne	485
+Other	Wine	486
+Cake	Beer	487
+Ice Cream	Tea	488
+Brownies	Champagne	489
+Cheesecake	Wine	490
+Other	Beer	491
+Cake	Tea	492
+Ice Cream	Champagne	493
+Brownies	Wine	494
+Cheesecake	Beer	495
+Other	Tea	496
+Cake	Champagne	497
+Ice Cream	Wine	498
+Brownies	Beer	499
+Cheesecake	Tea	500
+Other	Wine	501
+Cake	Beer	502
+Ice Cream	Tea	503
+Brownies	Champagne	504
+Cheesecake	Wine	505
+Other	Beer	506
+Cake	Tea	507
+Ice Cream	Champagne	508
+Brownies	Wine	509
+Cheesecake	Beer	510
+Other	Tea	511
+Cake	Champagne	512
+Ice Cream	Wine	513
+Brownies	Beer	514
+Cheesecake	Tea	515
+Other	Champagne	516
+Cake	Wine	517
+Ice Cream	Beer	518
+Brownies	Tea	519
+Cheesecake	Champagne	520
+Other	Wine	521
+Cake	Beer	522
+Ice Cream	Tea	523
+Brownies	Champagne	524
+Cheesecake	Wine	525
+Other	Beer	526
+Cake	Tea	527
+Ice Cream	Champagne	528
+Brownies	Wine	529
+Cheesecake	Beer	530
+Other	Tea	531
+Cake	Champagne	532
+Ice Cream	Wine	533
+Brownies	Beer	534
+Cheesecake	Tea	535
+Other	Champagne	536
+Cake	Wine	537
+Ice Cream	Beer	538
+Brownies	Tea	539
+Cheesecake	Champagne	540
+Other	Wine	541
+Cake	Beer	542
+Ice Cream	Tea	543
+Brownies	Champagne	544
+Cheesecake	Wine	545
+Other	Beer	546
+Cake	Tea	547
+Ice Cream	Champagne	548
+Brownies	Wine	549
+Cheesecake	Beer	550
+Other	Tea	551
+Cake	Champagne	552
+Ice Cream	Wine	553
+Brownies	Beer	554
+Cheesecake	Tea	555
+Other	Champagne	556
+Cake	Wine	557
+Ice Cream	Beer	558
+Brownies	Tea	559
+Cheesecake	Champagne	560
+Other	Wine	561
+Cake	Beer	562
+Ice Cream	Tea	563
+Brownies	Champagne	564
+Cheesecake	Wine	565
+Other	Beer	566
+Cake	Tea	567
+Ice Cream	Champagne	568
+Brownies	Wine	569
+Cheesecake	Beer	570
+Other	Tea	571
+Cake	Champagne	572
+Ice Cream	Wine	573
+Brownies	Beer	574
+Cheesecake	Tea	575
+Other	Champagne	576
+Cake	Wine	577
+Ice Cream	Beer	578
+Brownies	Tea	579
+Cheesecake	Champagne	580
+Other	Wine	581
+Cake	Beer	582
+Ice Cream	Tea	583
+Brownies	Champagne	584
+Cheesecake	Wine	585
+Other	Beer	586
+Cake	Tea	587
+Ice Cream	Champagne	588
+Brownies	Wine	589
+Cheesecake	Beer	590
+Other	Tea	591
+Cake	Champagne	592
+Ice Cream	Wine	593
+Brownies	Beer	594
+Cheesecake	Tea	595
+Other	Champagne	596
+Cake	Wine	597
+Ice Cream	Beer	598
+Brownies	Tea	599
+Cheesecake	Champagne	600
+Other	Wine	601
+Cake	Beer	602
+Ice Cream	Tea	603
+Brownies	Champagne	604
+Cheesecake	Wine	605
+Other	Beer	606
+Cake	Tea	607
+Ice Cream	Champagne	608
+Brownies	Wine	609
+Cheesecake	Beer	610
+Other	Tea	611
+Cake	Champagne	612
+Ice Cream	Wine	613
+Brownies	Beer	614
+Cheesecake	Tea	615
+Other	Champagne	616
+Cake	Wine	617
+Ice Cream	Beer	618
+Brownies	Tea	619
+Cheesecake	Champagne	620
+Other	Wine	621
+Cake	Beer	622
+Ice Cream	Tea	623
+Brownies	Champagne	624
+Cheesecake	Wine	625
+Other	Beer	626
+Cake	Tea	627
+Ice Cream	Champagne	628
+Brownies	Wine	629
+Cheesecake	Beer	630
+Other	Tea	631
+Cake	Champagne	632
+Ice Cream	Wine	633
+Brownies	Beer	634
+Cheesecake	Tea	635
+Other	Champagne	636
+Cake	Wine	637
+Ice Cream	Beer	638
+Brownies	Tea	639
+Cheesecake	Champagne	640
+Other	Wine	641
+Cake	Beer	642
+Ice Cream	Tea	643
+Brownies	Champagne	644
+Cheesecake	Wine	645
+Other	Beer	646
+Cake	Tea	647
+Ice Cream	Champagne	648
+Brownies	Wine	649
+Cheesecake	Beer	650
+Other	Tea	651
+Cake	Champagne	652
+Ice Cream	Wine	653
+Brownies	Beer	654
+Cheesecake	Tea	655
+Other	Champagne	656
+Cake	Wine	657
+Ice Cream	Beer	658
+Brownies	Tea	659
+Cheesecake	Champagne	660
+Other	Wine	661
+Cake	Tea	662
+Ice Cream	Beer	663
+Brownies	Champagne	664
+Cheesecake	Wine	665
+Other	Beer	666
+Cake	Tea	667
+Ice Cream	Champagne	668
+Brownies	Wine	669
+Cheesecake	Beer	670
+Other	Tea	671
+Cake	Champagne	672
+Ice Cream	Wine	673
+Brownies	Beer	674
+Cheesecake	Tea	675
+Other	Champagne	676
+Cake	Wine	677
+Ice Cream	Beer	678
+Brownies	Tea	679
+Cheesecake	Champagne	680
+Other	Wine	681
+Cake	Tea	682
+Ice Cream	Beer	683
+Brownies	Champagne	684
+Cheesecake	Wine	685
+Other	Beer	686
+Cake	Tea	687
+Ice Cream	Champagne	688
+Brownies	Wine	689
+Cheesecake	Beer	690
+Other	Tea	691
+Cake	Champagne	692
+Ice Cream	Wine	693
+Brownies	Beer	694
+Cheesecake	Tea	695
+Other	Champagne	696
+Cake	Wine	697
+Ice Cream	Beer	698
+Brownies	Tea	699
+Cheesecake	Champagne	700
+Other	Wine	701
+Cake	Tea	702
+Ice Cream	Beer	703
+Brownies	Champagne	704
+Cheesecake	Wine	705
+Other	Beer	706
+Cake	Tea	707
+Ice Cream	Champagne	708
+Brownies	Wine	709
+Cheesecake	Beer	710
+Other	Tea	711
+Cake	Champagne	712
+Ice Cream	Wine	713
+Brownies	Beer	714
+Cheesecake	Tea	715
+Other	Champagne	716
+Cake	Wine	717
+Ice Cream	Beer	718
+Brownies	Tea	719
+Cheesecake	Champagne	720
+Other	Wine	721
+Cake	Tea	722
+Ice Cream	Beer	723
+Brownies	Champagne	724
+Cheesecake	Wine	725
+Other	Beer	726
+Cake	Tea	727
+Ice Cream	Champagne	728
+Brownies	Wine	729
+Cheesecake	Beer	730
+Other	Tea	731
+Cake	Champagne	732
+Ice Cream	Wine	733
+Brownies	Beer	734
+Cheesecake	Tea	735
+Other	Champagne	736
+Cake	Wine	737
+Ice Cream	Beer	738
+Brownies	Tea	739
+Cheesecake	Champagne	740
+Other	Wine	741
+Cake	Tea	742
+Ice Cream	Beer	743
+Brownies	Champagne	744
+Cheesecake	Wine	745
+Other	Tea	746
+Cake	Champagne	747
+Ice Cream	Wine	748
+Brownies	Beer	749
+Cheesecake	Tea	750
+Other	Champagne	751
+Cake	Wine	752
+Ice Cream	Beer	753
+Brownies	Tea	754
+Cheesecake	Champagne	755
+Other	Wine	756
+Cake	Tea	757
+Ice Cream	Beer	758
+Brownies	Champagne	759
+Cheesecake	Wine	760
+Other	Beer	761
+Cake	Tea	762
+Ice Cream	Champagne	763
+Brownies	Wine	764
+Cheesecake	Beer	765
+Other	Tea	766
+Cake	Champagne	767
+Ice Cream	Wine	768
+Brownies	Beer	769
+Cheesecake	Tea	770
+Other	Champagne	771
+Cake	Wine	772
+Ice Cream	Beer	773
+Brownies	Tea	774
+Cheesecake	Champagne	775
+Other	Wine	776
+Cake	Tea	777
+Ice Cream	Beer	778
+Brownies	Champagne	779
+Cheesecake	Wine	780
+Other	Tea	781
+Cake	Champagne	782
+Ice Cream	Wine	783
+Brownies	Beer	784
+Cheesecake	Tea	785
+Other	Champagne	786
+Cake	Wine	787
+Ice Cream	Beer	788
+Brownies	Tea	789
+Cheesecake	Champagne	790
+Other	Wine	791
+Cake	Tea	792
+Ice Cream	Beer	793
+Brownies	Champagne	794
+Cheesecake	Wine	795
+Other	Tea	796
+Cake	Champagne	797
+Ice Cream	Wine	798
+Brownies	Beer	799
+Cheesecake	Tea	800
+Other	Champagne	801
+Cake	Wine	802
+Ice Cream	Beer	803
+Brownies	Tea	804
+Cheesecake	Champagne	805
+Other	Wine	806
+Cake	Beer	807
+Ice Cream	Tea	808
+Brownies	Champagne	809
+Cheesecake	Wine	810
+Other	Beer	811
+Cake	Tea	812
+Ice Cream	Champagne	813
+Brownies	Wine	814
+Cheesecake	Beer	815
+Other	Tea	816
+Cake	Champagne	817
+Ice Cream	Wine	818
+Brownies	Beer	819
+Cheesecake	Tea	820
+Other	Champagne	821
+Cake	Wine	822
+Ice Cream	Beer	823
+Brownies	Tea	824
+Cheesecake	Champagne	825
+Other	Wine	826
+Cake	Tea	827
+Ice Cream	Beer	828
+Brownies	Champagne	829
+Cheesecake	Wine	830
+Other	Beer	831
+Cake	Tea	832
+Ice Cream	Champagne	833
+Brownies	Wine	834
+Cheesecake	Beer	835
+Other	Tea	836
+Cake	Champagne	837
+Ice Cream	Wine	838
+Brownies	Beer	839
+Cheesecake	Tea	840
+Other	Champagne	841
+Cake	Wine	842
+Ice Cream	Beer	843
+Brownies	Tea	844
+Cheesecake	Champagne	845
+Other	Wine	846
+Cake	Tea	847
+Ice Cream	Beer	848
+Brownies	Champagne	849
+Cheesecake	Wine	850
+Other	Tea	851
+Cake	Champagne	852
+Ice Cream	Wine	853
+Brownies	Beer	854
+Cheesecake	Tea	855
+Other	Champagne	856
+Cake	Wine	857
+Ice Cream	Beer	858
+Brownies	Tea	859
+Cheesecake	Champagne	860
+Other	Wine	861
+Cake	Tea	862
+Ice Cream	Beer	863
+Brownies	Champagne	864
+Cheesecake	Wine	865
+Other	Tea	866
+Cake	Champagne	867
+Ice Cream	Wine	868
+Brownies	Beer	869
+Cheesecake	Tea	870
+Other	Champagne	871
+Cake	Wine	872
+Ice Cream	Beer	873
+Brownies	Tea	874
+Cheesecake	Champagne	875
+Other	Wine	876
+Cake	Tea	877
+Ice Cream	Beer	878
+Brownies	Champagne	879
+Cheesecake	Wine	880
+Other	Beer	881
+Cake	Tea	882
+Ice Cream	Champagne	883
+Brownies	Wine	884
+Cheesecake	Beer	885
+Other	Tea	886
+Cake	Champagne	887
+Ice Cream	Wine	888
+Brownies	Beer	889
+Cheesecake	Tea	890
+Other	Champagne	891
+Cake	Wine	892
+Ice Cream	Beer	893
+Brownies	Tea	894
+Cheesecake	Champagne	895
+Other	Wine	896
+Cake	Tea	897
+Ice Cream	Beer	898
+Brownies	Champagne	899
+Cheesecake	Wine	900
+Other	Tea	901
+Cake	Champagne	902
+Ice Cream	Wine	903
+Brownies	Beer	904
+Cheesecake	Tea	905
+Other	Champagne	906
+Cake	Wine	907
+Ice Cream	Beer	908
+Brownies	Tea	909
+Cheesecake	Champagne	910
+Other	Wine	911
+Cake	Tea	912
+Ice Cream	Beer	913
+Brownies	Champagne	914
+Cheesecake	Wine	915
+Other	Tea	916
+Cake	Champagne	917
+Ice Cream	Wine	918
+Brownies	Beer	919
+Cheesecake	Tea	920
+Other	Champagne	921
+Cake	Wine	922
+Ice Cream	Beer	923
+Brownies	Tea	924
+Cheesecake	Champagne	925
+Other	Wine	926
+Cake	Tea	927
+Ice Cream	Beer	928
+Brownies	Champagne	929
+Cheesecake	Wine	930
+Other	Tea	931
+Cake	Champagne	932
+Ice Cream	Wine	933
+Brownies	Beer	934
+Cheesecake	Tea	935
+Other	Champagne	936
+Cake	Wine	937
+Ice Cream	Beer	938
+Brownies	Tea	939
+Cheesecake	Champagne	940
+Other	Wine	941
+Cake	Tea	942
+Ice Cream	Beer	943
+Brownies	Champagne	944
+Cheesecake	Wine	945
+Other	Beer	946
+Cake	Tea	947
+Ice Cream	Champagne	948
+Brownies	Wine	949
+Cheesecake	Beer	950
+Other	Tea	951
+Cake	Champagne	952
+Ice Cream	Wine	953
+Brownies	Beer	954
+Cheesecake	Tea	955
+Other	Champagne	956
+Cake	Wine	957
+Ice Cream	Beer	958
+Brownies	Tea	959
+Cheesecake	Champagne	960
+Other	Wine	961
+Cake	Tea	962
+Ice Cream	Beer	963
+Brownies	Champagne	964
+Cheesecake	Wine	965
+Other	Tea	966
+Cake	Champagne	967
+Ice Cream	Wine	968
+Brownies	Beer	969
+Cheesecake	Tea	970
+Other	Champagne	971
+Cake	Wine	972
+Ice Cream	Beer	973
+Brownies	Tea	974
+Cheesecake	Champagne	975
+Other	Wine	976
+Cake	Tea	977
+Ice Cream	Beer	978
+Brownies	Champagne	979
+Cheesecake	Wine	980
+Other	Tea	981
+Cake	Champagne	982
+Ice Cream	Wine	983
+Brownies	Beer	984
+Cheesecake	Tea	985
+Other	Champagne	986
+Cake	Wine	987
+Ice Cream	Beer	988
+Brownies	Tea	989
+Cheesecake	Champagne	990
+Other	Wine	991
+Cake	Tea	992
+Ice Cream	Beer	993
+Brownies	Champagne	994
+Cheesecake	Wine	995
+Other	Tea	996
+Cake	Champagne	997
+Ice Cream	Wine	998
+Brownies	Beer	999
+Cheesecake	Tea	1000
